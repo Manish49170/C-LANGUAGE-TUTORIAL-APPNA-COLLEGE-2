@@ -1,18 +1,19 @@
 #include<stdio.h>
+
+// This is a single -line comments.
+//this code  displays how data types in c
+
+/* This is a multiple-line comments.
+    int number = 12344;
+    char star ='*';
+    diiiijiijjijdidjjsjisjii
+*/
+
+
 int main()
 {
-
-  // Comments
-
-  //  singlr line comments
- // int age =24;
-  // float pi =3.14;
-    // char hastag ='#';
-
-  /* multi-line comments*/
-  /* int age =24;
-   float pi =3.14;
-     char hastag ='#';*/
-
+  int age = 22;
+  float pi = 3.14;
+  char hastage = '#';
   return 0;
 }

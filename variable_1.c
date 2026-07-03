@@ -1,20 +1,21 @@
 #include<stdio.h>
 int main()
 {
-  int number = 2;
-  char star = 'x';
+  int number = 12;
+  char star = "*";
   int age = 22;
   age = 24;
-  float pi =3.14;
+  float pi = 3.14;
 
-  // case sensitive 
-  int a = 40;
-  int A = 40;
+ // CASE SENSITIVE
+  int a = 10;
+  int A = 20;
 
-  //first char alphabet or ' _'
-  int _age =22;
+  //  Alphabet or '_'
+    int A = 20;
+    int _age = 22;
 
-// no comma/ blank space
-int final_price = 100;
+    // no comma/blank space
+    int final_price = 100;
   return 0;
 }
